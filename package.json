@@ -1,0 +1,14 @@
+{
+  "name": "chatgpt-electron",
+  "version": "1.0.0",
+  "description": "An Electron app to customize the ChatGPT interface",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^23.0.0"
+  }
+}
