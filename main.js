@@ -29,7 +29,7 @@ function createWindow() {
 
   win.webContents.on('did-finish-load', () => {
     console.log('Page loaded');
-    win.webContents.openDevTools(); // Open DevTools for debugging
+    //win.webContents.openDevTools(); // Open DevTools for debugging
   });
 
   win.webContents.on('did-fail-load', (event, errorCode, errorDescription, validatedURL) => {

@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^23.0.0"
+    "electron": "^23.3.13"
+  },
+  "devDependencies": {
+    "electron-packager": "^17.1.2"
   }
 }
